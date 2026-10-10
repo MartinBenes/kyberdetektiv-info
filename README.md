@@ -31,6 +31,13 @@ Interaktivní hodina kyberbezpečnosti pro žáky 2. stupně ZŠ a SŠ: 31 sním
 - **Pomoc:** co dělat po ukradení účtu, desatero a kontakty, včetně pole pro školního metodika prevence.
 - **Test:** 15 otázek, odznak a „co udělám ještě dnes“.
 
+## Čtení a úkoly
+
+Snímky mají dva vzhledy, aby žák hned poznal, co se po něm chce:
+
+- **Čti:** klidný papír a štítek „Čti“. Výklad a ukázky k prohlédnutí.
+- **Úkol:** tmavší podklad, pruh pásky nahoře, žlutý štítek „Úkol“ a pod nadpisem jedna věta zadání. Úkolem je 21 z 31 snímků.
+
 ## Žáci a režim učitele
 
 Žáci procházejí snímky postupně a nemůžou přeskakovat:
