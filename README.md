@@ -1,12 +1,12 @@
 # Kyberdetektiv
 
-Interaktivní hodina kyberbezpečnosti pro žáky 2. stupně ZŠ a SŠ: 31 snímků, plán na 40 minut.
+Interaktivní hodina kyberbezpečnosti pro žáky 2. stupně ZŠ a SŠ: 32 snímků, plán na 41 minut.
 
 **Spustit:** https://benes.dev/kyberdetektiv/
 
 ## Co v hodině je
 
-- **Start:** SMS, ve které lupa sama najde stopy, čísla o podvodech v Česku, anketa „Kdo z vás už to zažil?“ a psychologie podvodníka.
+- **Start:** SMS, ve které lupa sama najde stopy, snímek „Jak to funguje“, na kterém si žák vyzkouší ovládání, čísla o podvodech v Česku, anketa „Kdo z vás už to zažil?“ a psychologie podvodníka.
 - **Phishing:**
   - hledání stop v e-mailu,
   - jak poznat hlavní doménu,
@@ -36,7 +36,7 @@ Interaktivní hodina kyberbezpečnosti pro žáky 2. stupně ZŠ a SŠ: 31 sním
 Snímky mají dva vzhledy, aby žák hned poznal, co se po něm chce:
 
 - **Čti:** klidný papír a štítek „Čti“. Výklad a ukázky k prohlédnutí.
-- **Úkol:** tmavší podklad, pruh pásky nahoře, žlutý štítek „Úkol“ a pod nadpisem jedna věta zadání ve žlutém pruhu. Místo, kde má žák něco udělat, má žlutý rám. Na začátku úkolu na něj doletí lupa s nápisem „tady“ a rám dýchá, dokud žák poprvé neklikne. Úkolem je 21 z 31 snímků.
+- **Úkol:** tmavší podklad, pruh pásky nahoře, žlutý štítek „Úkol“ a pod nadpisem jedna věta zadání ve žlutém pruhu. Místo, kde má žák něco udělat, má žlutý rám. Na začátku úkolu na něj doletí lupa s nápisem „tady“ a rám dýchá, dokud žák poprvé neklikne. Úkolem je 22 z 32 snímků.
 
 ## Žáci a režim učitele
 
@@ -44,6 +44,7 @@ Snímky mají dva vzhledy, aby žák hned poznal, co se po něm chce:
 
 - Záložky a obsah (☰) se směrem dopředu odemknou, až k nim žák dojde. Vracet se může kdykoli.
 - Šipka dál se na každém novém snímku odemkne po chvilce: 12 s za každou minutu plánu hodiny, nejméně 6 s a nejvýš 30 s. Na šipce se mezitím plní kolečko odpočtu.
+- Na druhém snímku „Jak to funguje“ si žák vyzkouší listování, rozdíl mezi Čti a Úkol a první výběr. Dál ho pustí až po všech třech krocích.
 - Ze závěrečného testu se dál dostane až po jeho dokončení.
 - Postup si pamatuje prohlížeč, takže po obnovení stránky žák pokračuje tam, kde skončil. Tlačítko „Začít od začátku“ v obsahu postup vynuluje.
 
