@@ -36,7 +36,7 @@ Interaktivní hodina kyberbezpečnosti pro žáky 2. stupně ZŠ a SŠ: 31 sním
 Snímky mají dva vzhledy, aby žák hned poznal, co se po něm chce:
 
 - **Čti:** klidný papír a štítek „Čti“. Výklad a ukázky k prohlédnutí.
-- **Úkol:** tmavší podklad, pruh pásky nahoře, žlutý štítek „Úkol“ a pod nadpisem jedna věta zadání. Úkolem je 21 z 31 snímků.
+- **Úkol:** tmavší podklad, pruh pásky nahoře, žlutý štítek „Úkol“ a pod nadpisem jedna věta zadání ve žlutém pruhu. Místo, kde má žák něco udělat, má žlutý rám. Na začátku úkolu na něj doletí lupa s nápisem „tady“ a rám dýchá, dokud žák poprvé neklikne. Úkolem je 21 z 31 snímků.
 
 ## Žáci a režim učitele
 
